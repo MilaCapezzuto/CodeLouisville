@@ -1,0 +1,22 @@
+.center {
+margin: 0 auto;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 13px;
+}
+
+.background-Italy {
+  background-image:url('../img/img1.jpg');
+  background-size:cover; 
+}
