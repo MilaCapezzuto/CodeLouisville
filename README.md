@@ -1,2 +1,2 @@
 # Sapori-Italia
-Project for my Code Louisville Coursework 
+My first project for LLC Sapori Italia (small manufacture of cheese making).
