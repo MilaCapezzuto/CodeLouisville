@@ -1,9 +1,9 @@
 .center {
 margin: 0 auto;
 }
-
+ 
 body {
-  background-color: lightblue;
+  background-color: #FFFEE6;
 }
 
 h1 {
@@ -18,5 +18,5 @@ p {
 
 .background-Italy {
   background-image:url('../img/img1.jpg');
-  background-size:cover; 
+  background-size:cover;
 }
