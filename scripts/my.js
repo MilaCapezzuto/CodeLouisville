@@ -18,6 +18,7 @@ function checkTime(i) {
 }
 
 //$(document).ready(function(){
-$ ("#submitButton").click(function(){
-alert("Thank you for subscribing!")
-})
+$ ("#submitButton").click(function() {
+alert("Thank you for subscribing!");
+$("#emailInput").val("");
+});
