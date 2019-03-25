@@ -1,4 +1,4 @@
-// A $( document ).ready() block.
+
 
 // Add clock to website
 function startTime() {
@@ -16,8 +16,7 @@ function checkTime(i) {
   if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
   return i;
 }
-
-//$(document).ready(function(){
+// displays alert and clears email Input
 $ ("#submitButton").click(function() {
 alert("Thank you for subscribing!");
 $("#emailInput").val("");

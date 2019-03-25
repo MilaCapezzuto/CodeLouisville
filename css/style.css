@@ -1,7 +1,8 @@
+/*Centers the content*/
 .center {
 margin: 0 auto;
 }
- 
+
 body {
   background-color: #FFFEE6;
 }
@@ -15,7 +16,7 @@ p {
   font-family: verdana;
   font-size: 13px;
 }
-
+/*Sets background image */
 .background-Italy {
   background-image:url('../img/img1.jpg');
   background-size:cover;
